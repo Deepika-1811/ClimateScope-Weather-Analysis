@@ -20,6 +20,19 @@ The project processes over **124,000+ global weather records** to generate meani
 - Generate actionable insights from weather data
 
 ---
+## 🔄 Workflow
+
+The project follows an end-to-end data analytics pipeline:
+
+Raw Weather Data  
+→ Data Cleaning & Preprocessing  
+→ Feature Engineering  
+→ Exploratory Data Analysis (EDA)  
+→ Statistical Analysis  
+→ Insight Generation  
+→ Power BI Dashboard Visualization  
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -36,6 +49,19 @@ The project processes over **124,000+ global weather records** to generate meani
 ### Development Environment
 - Jupyter Notebook
 - GitHub
+
+---
+## 📁 Project Structure
+
+ClimateScope-Weather-Analysis/
+│
+├── GlobalWeatherRepository_raw.csv
+├── GlobalWeatherRepository_cleaned.csv
+├── data_preprocessing.ipynb
+├── core_weather_analysis.ipynb
+├── ClimateScope_Dashboard.pbix
+├── requirements.txt
+└── README.md
 
 ---
 
